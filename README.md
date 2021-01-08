@@ -11,7 +11,7 @@ For the first element we randomly chose a state and propagate this information t
 
 In other words, we always have the neighbourhoods <water+sand> and <sand+land>, but never <water+land>.
 
-The algorithm goes line by line and row by row propagating the information, while randomly choosing new values. In the end we pass the final states in the 3d grid 'A' to a 2d grid 'B' and plot the result.
+The algorithm goes line by line and row by row propagating the information, while randomly choosing new possible values. In the end we pass the final states in the 3d grid 'A' to a 2d grid 'B' and plot the result.
 
 To run the code the user must run in the terminal 'python3 map.py size_num', where size_num is the number of the square map (size_num X size_num).
 
