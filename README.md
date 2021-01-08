@@ -19,3 +19,6 @@ Below is a 10 x 10 map generated with the code:
 
 ![alt text](https://github.com/BrenoPereira105/map_generator/blob/main/map_10.png)
 
+Also, a 100 x 100 map generated with the code:
+
+![alt text](https://github.com/BrenoPereira105/map_generator/blob/main/map_100.png)
