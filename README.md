@@ -9,4 +9,6 @@ For the first element we randomly chose a state and propagate this information t
 
 -if entry = 2, then neighbourhoods = 1 or 2
 
-In other words, we always have the neighbourhoods water+sand and sand+land, but never water+land.
+In other words, we always have the neighbourhoods <water+sand> and <sand+land>, but never <water+land>.
+
+The algorithm goes line by line and row by row propagating the information, while randomly choosing new values.
