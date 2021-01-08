@@ -3,8 +3,10 @@ This code is based on the algorithm of the wave function collapse for a map gene
 
 For the first element we randomly chose a state and propagate this information to the neighbourhoods. To do this we follow adjacency rules such that:
 
-if entry = 0, then neighbourhoods = 0 or 1
-if entry = 1, then neighbourhoods = 0 or 1 or 2
-if entry = 2, then neighbourhoods = 1 or 2
+-if entry = 0, then neighbourhoods = 0 or 1
+
+-if entry = 1, then neighbourhoods = 0 or 1 or 2
+
+-if entry = 2, then neighbourhoods = 1 or 2
 
 In other words, we always have the neighbourhoods water+sand and sand+land, but never water+land.
