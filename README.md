@@ -14,3 +14,8 @@ In other words, we always have the neighbourhoods <water+sand> and <sand+land>, 
 The algorithm goes line by line and row by row propagating the information, while randomly choosing new values. In the end we pass the final states in the 3d grid 'A' to a 2d grid 'B' and plot the result.
 
 To run the code the user must run in the terminal 'python3 map.py size_num', where size_num is the number of the square map (size_num X size_num).
+
+Below is a 10 x 10 map generated with the code:
+
+![alt text](https://github.com/BrenoPereira105/map_generator/blob/main/map_10.png)
+
