@@ -22,3 +22,11 @@ Below is a 10 x 10 map generated with the code:
 Also, a 100 x 100 map generated with the code:
 
 ![alt text](https://github.com/BrenoPereira105/map_generator/blob/main/map_100.png)
+
+I made a version 'map_3d.py' which plots a 3d graph based on the 2d grid. Below is a random 2d graph used by reference:
+
+![alt text](https://github.com/BrenoPereira105/map_generator/blob/main/map_10_2d.png)
+
+And its 3d projection:
+
+![alt text](https://github.com/BrenoPereira105/map_generator/blob/main/map_10_3d.png)
